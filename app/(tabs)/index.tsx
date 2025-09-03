@@ -14,10 +14,13 @@ export default function HomeScreen() {
         <Image
           source={require('@/assets/images/partial-react-logo.png')}
           style={styles.reactLogo}
+          
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome!</ThemedText>
+      <ThemedText type="title" style={{ color: '#FF5733' }}>
+  HELLO_WORLD 🌍
+</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
