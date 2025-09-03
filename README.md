@@ -1,2 +1,1 @@
-💄Ui(index.txt)Cambio en la interfaz de Usuario (UI)
--Cambio de texto de ThemedText a Hola Mundo y Emoji a 🌎
+a
